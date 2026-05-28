@@ -1,4 +1,4 @@
-ARG SERVER_VERSION=22e380f
+ARG SERVER_VERSION=1285396
 ARG SERVER_VERSION_STRING=v1.0.0-dev.rc.1
 
 # Builder image to compile the website
